@@ -1,0 +1,19 @@
+{
+  "scene": "cliff-mansion",
+  "frameCount": 721,
+  "exportFps": 30,
+  "nativeFps": 24,
+  "nativeFrameCount": 577,
+  "nativeDurationSeconds": 24.041667,
+  "exportDurationSeconds": 24.033333333333335,
+  "width": 1920,
+  "height": 1080,
+  "format": "webp",
+  "quality": 90,
+  "totalMiB": 177.33,
+  "pattern": "frame_%04d.webp",
+  "startFrame": 1,
+  "endFrame": 721,
+  "endpointPolicy": "First and last slots replaced by the approved plate, downsampled to this set. Encoded files are identical. Generated frames next to the endpoints may differ slightly in fine detail. No crossfade or reversed footage added.",
+  "resampling": "Native 24 fps resampled to 30 slots per second; duplicate slots do not add motion detail."
+}

@@ -1,0 +1,9 @@
+{
+  "note": "Expected URLs after you upload the included folder to your existing GitHub Pages host. These files have not been uploaded by the agent.",
+  "framesUrl": "https://onbrandapp.github.io/my-framer-assets/assets/scenes/cliff-mansion/frames/",
+  "mobileFramesUrl": "https://onbrandapp.github.io/my-framer-assets/assets/scenes/cliff-mansion/frames-mobile/",
+  "posterUrl": "https://onbrandapp.github.io/my-framer-assets/assets/scenes/cliff-mansion/poster.webp",
+  "finalFrameUrl": "https://onbrandapp.github.io/my-framer-assets/assets/scenes/cliff-mansion/final.webp",
+  "frameCount": 721,
+  "scrollScreens": 6
+}
