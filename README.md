@@ -1,2 +1,2 @@
 # my-framer-assets
-Piblic URL to store assets for use inside of Framer
+Public URL to store assets for use inside of Framer websites and other online experimental works.
